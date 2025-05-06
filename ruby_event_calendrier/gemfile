@@ -1,0 +1,17 @@
+source "https://rubygems.org"
+
+gem "pry"
+gem "rubocop"
+gem "coderay"
+gem "method_source"
+gem "jaro_winkler"
+gem "parallel"
+gem "parser"
+gem "powerpack"
+gem "rainbow"
+gem "ruby-progressbar"
+gem "unicode-display_width"
+gem "ast"
+gem "fiddle"
+
+
